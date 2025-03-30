@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/praktic20.09/static/css/main.ffe34ec7.css",
+    "main.js": "/praktic20.09/static/js/main.c6734180.js",
+    "index.html": "/praktic20.09/index.html",
+    "main.ffe34ec7.css.map": "/praktic20.09/static/css/main.ffe34ec7.css.map",
+    "main.c6734180.js.map": "/praktic20.09/static/js/main.c6734180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.c6734180.js"
+  ]
+}
